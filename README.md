@@ -27,6 +27,7 @@ If you are using [replit](https://replit.com/) you can remove `require('dotenv')
 
 # Contact
 Discord: `Lynx.devv#0531`
+Instagram: `lynx.devv`
 
 ## Made by Lynx (Lynx.devv#0531)
 These command handlers are made by Lynx (Lynx.devv#0531)
