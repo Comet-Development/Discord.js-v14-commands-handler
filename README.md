@@ -13,7 +13,7 @@ Discord.js v14 is still in development, but we can start using the dev version.
 - Mongo Database
 
 ## Preview
-<img src="https://i.imgur.com/9C05yTC.png"/>
+<img src="https://i.imgur.com/Q7BCuqk.png"/>
 
 ## Setup
 
