@@ -33,4 +33,4 @@ These command handlers are made by Lynx (Lynx.devv#0531)
 
 If you have any problem, you can contact me. 😉
 
-<img src="https://discord.c99.nl/widget/theme-2/828919619661987870.png" style="border-radius: 5px" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-2/828919619661987870.png" alt="Discord"/>
