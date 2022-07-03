@@ -1,0 +1,25 @@
+{
+  "name": "discordjs-v14-handler",
+  "version": "1.0.0",
+  "description": "Commands, Events, Permissions and Cooldown Handlers for Discord.js v14 bot ~ Made by Lynx.devv#0531",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lynx.devv#0531",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.14.0"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^0.4.0-dev.1648166871.cedd053",
+    "ascii-table": "^0.0.9",
+    "chalk": "^2.4.1",
+    "discord-api-types": "^0.30.0",
+    "discord.js": "^14.0.0-dev.1656158629-c4653f9",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.2",
+    "ms": "^2.1.3"
+  }
+}
