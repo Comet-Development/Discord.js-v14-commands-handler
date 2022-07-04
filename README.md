@@ -35,3 +35,6 @@ These command handlers are made by Lynx (Lynx.devv#0531)
 If you have any problem, you can contact me. 😉
 
 <img src="https://discord.c99.nl/widget/theme-2/828919619661987870.png" alt="Discord"/>
+
+# Disclaimer
+This handler was built with the ideas from Nathaniel-VFX's Discord.js v14 handler.
